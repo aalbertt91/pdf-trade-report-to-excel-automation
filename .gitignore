@@ -1,0 +1,20 @@
+# Python cache & compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Environment / Secrets
+.env
+
+# Excel çıktıları (output dosyaları)
+*.xlsx
+*.xls
+
+# PDF dosyaları
+# Sadece örnek input PDF'leri repoya eklemek istiyorsan data/examples/ klasöründe tut
+data/*.pdf
+
+# IDE / Editor
+.vscode/
+.replit
