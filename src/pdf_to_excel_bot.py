@@ -104,5 +104,3 @@ if __name__ == "__main__":
     print(df_clean)
 
     df_clean.to_excel("data/Trade_Statement_Analysis.xlsx", index=False)
-
-
