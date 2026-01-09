@@ -7,12 +7,11 @@ __pycache__/
 # Environment / Secrets
 .env
 
-# Excel çıktıları (output dosyaları)
+# Excel output files
 *.xlsx
 *.xls
 
-# PDF dosyaları
-# Sadece örnek input PDF'leri repoya eklemek istiyorsan data/examples/ klasöründe tut
+# PDF files
 data/*.pdf
 
 # IDE / Editor
